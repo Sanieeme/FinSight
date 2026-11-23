@@ -20,8 +20,8 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
-python scripts/generate_sample_data.py
-python scripts/run_etl.py
+python3 scripts/generate_sample_data.py
+python3 scripts/run_etl.py
 ```
 Terminal 1:
 ```bash
