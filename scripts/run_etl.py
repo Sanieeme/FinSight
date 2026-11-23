@@ -1,7 +1,13 @@
 import argparse
 from pathlib import Path
-from backend.app.database import Base,engine,SessionLocal
+import sys
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
+
 from pipelines.etl import process_csv
+from backend.app.database import Base, engine, SessionLocal
+
 
 def main():
     parser=argparse.ArgumentParser()

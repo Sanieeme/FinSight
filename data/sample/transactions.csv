@@ -1,0 +1,421 @@
+transaction_date,description,amount,transaction_type,category,account,user_email
+2025-01-01,Monthly income,9870.53,income,Salary,Savings Account,demo.user@example.com
+2025-01-02,Household items,665.58,expense,Shopping,Main Account,smallbiz@example.com
+2025-01-04,Taxi fare,1666.88,expense,Transport,Savings Account,smallbiz@example.com
+2025-01-04,Monthly income,23146.47,income,Salary,Main Account,demo.user@example.com
+2025-01-05,Food shopping,1537.58,expense,Groceries,Savings Account,demo.user@example.com
+2025-01-07,Restaurant,1604.29,expense,Entertainment,Main Account,demo.user@example.com
+2025-01-08,Taxi fare,69.17,expense,Transport,Savings Account,demo.user@example.com
+2025-01-09,Monthly income,13318.31,income,Salary,Savings Account,smallbiz@example.com
+2025-01-09,Household items,1780.35,expense,Shopping,Main Account,demo.user@example.com
+2025-01-12,Streaming,1186.64,expense,Entertainment,Main Account,demo.user@example.com
+2025-01-14,Medical,1046.93,expense,Health,Main Account,demo.user@example.com
+2025-01-15,Pharmacy,1571.68,expense,Health,Savings Account,demo.user@example.com
+2025-01-15,Monthly income,31289.61,income,Salary,Savings Account,demo.user@example.com
+2025-01-17,Streaming,178.3,expense,Entertainment,Savings Account,demo.user@example.com
+2025-01-17,Fuel,1693.02,expense,Transport,Savings Account,smallbiz@example.com
+2025-01-18,Monthly income,13663.89,income,Freelance,Savings Account,smallbiz@example.com
+2025-01-18,Clothing,230.14,expense,Shopping,Savings Account,smallbiz@example.com
+2025-01-19,Monthly income,31168.49,income,Freelance,Main Account,smallbiz@example.com
+2025-01-20,Fuel,1802.91,expense,Transport,Savings Account,smallbiz@example.com
+2025-01-23,Rent,1832.78,expense,Housing,Savings Account,smallbiz@example.com
+2025-01-24,Rent,1886.76,expense,Housing,Main Account,smallbiz@example.com
+2025-01-24,Electricity,286.4,expense,Housing,Main Account,demo.user@example.com
+2025-01-24,Food shopping,811.07,expense,Groceries,Savings Account,demo.user@example.com
+2025-01-24,Medical,1544.91,expense,Health,Main Account,smallbiz@example.com
+2025-01-25,Household items,1736.27,expense,Shopping,Savings Account,smallbiz@example.com
+2025-01-26,Streaming,572.51,expense,Entertainment,Main Account,smallbiz@example.com
+2025-01-28,Monthly income,16682.7,income,Freelance,Savings Account,demo.user@example.com
+2025-01-30,Pharmacy,1654.37,expense,Health,Main Account,demo.user@example.com
+2025-01-30,Pharmacy,220.44,expense,Health,Savings Account,demo.user@example.com
+2025-01-31,Household items,1462.35,expense,Shopping,Main Account,demo.user@example.com
+2025-02-01,Rent,573.34,expense,Housing,Main Account,smallbiz@example.com
+2025-02-02,Monthly income,14623.08,income,Freelance,Savings Account,demo.user@example.com
+2025-02-02,Restaurant,2131.0,expense,Entertainment,Main Account,smallbiz@example.com
+2025-02-03,Household items,1173.13,expense,Shopping,Savings Account,demo.user@example.com
+2025-02-05,Rent,1874.33,expense,Housing,Savings Account,demo.user@example.com
+2025-02-05,Clothing,909.17,expense,Shopping,Main Account,demo.user@example.com
+2025-02-06,Monthly income,27023.09,income,Freelance,Savings Account,demo.user@example.com
+2025-02-07,Medical,1295.56,expense,Health,Savings Account,demo.user@example.com
+2025-02-07,Monthly income,26280.71,income,Salary,Savings Account,demo.user@example.com
+2025-02-07,Monthly income,11701.3,income,Salary,Savings Account,smallbiz@example.com
+2025-02-08,Rent,423.3,expense,Housing,Savings Account,demo.user@example.com
+2025-02-08,Clothing,1689.79,expense,Shopping,Savings Account,demo.user@example.com
+2025-02-08,Electricity,1384.36,expense,Housing,Savings Account,demo.user@example.com
+2025-02-11,Streaming,1342.04,expense,Entertainment,Main Account,demo.user@example.com
+2025-02-11,Monthly income,23394.89,income,Freelance,Main Account,smallbiz@example.com
+2025-02-11,Clothing,2199.8,expense,Shopping,Savings Account,demo.user@example.com
+2025-02-12,Streaming,1260.08,expense,Entertainment,Main Account,demo.user@example.com
+2025-02-14,Fuel,1311.43,expense,Transport,Savings Account,smallbiz@example.com
+2025-02-16,Restaurant,1016.68,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-02-16,Food shopping,1196.68,expense,Groceries,Savings Account,smallbiz@example.com
+2025-02-17,Monthly income,20128.53,income,Salary,Main Account,smallbiz@example.com
+2025-02-19,Electricity,925.04,expense,Housing,Main Account,demo.user@example.com
+2025-02-19,Fuel,1376.83,expense,Transport,Savings Account,smallbiz@example.com
+2025-02-21,Restaurant,1599.09,expense,Entertainment,Savings Account,demo.user@example.com
+2025-02-21,Pharmacy,1468.08,expense,Health,Main Account,smallbiz@example.com
+2025-02-22,Medical,1051.24,expense,Health,Savings Account,smallbiz@example.com
+2025-02-22,Monthly income,12734.52,income,Salary,Main Account,demo.user@example.com
+2025-02-22,Monthly income,16493.94,income,Salary,Savings Account,smallbiz@example.com
+2025-02-22,Pharmacy,1313.42,expense,Health,Main Account,demo.user@example.com
+2025-02-23,Supermarket,1834.8,expense,Groceries,Main Account,smallbiz@example.com
+2025-02-24,Monthly income,14209.72,income,Salary,Savings Account,smallbiz@example.com
+2025-02-24,Monthly income,8162.42,income,Freelance,Savings Account,smallbiz@example.com
+2025-02-25,Medical,283.73,expense,Health,Savings Account,demo.user@example.com
+2025-02-25,Electricity,979.79,expense,Housing,Main Account,smallbiz@example.com
+2025-02-26,Taxi fare,298.8,expense,Transport,Main Account,smallbiz@example.com
+2025-02-28,Fuel,1510.91,expense,Transport,Main Account,smallbiz@example.com
+2025-03-02,Monthly income,20894.2,income,Salary,Main Account,demo.user@example.com
+2025-03-03,Clothing,449.69,expense,Shopping,Savings Account,smallbiz@example.com
+2025-03-04,Restaurant,1469.89,expense,Entertainment,Main Account,demo.user@example.com
+2025-03-04,Streaming,2091.84,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-03-05,Taxi fare,1023.36,expense,Transport,Savings Account,demo.user@example.com
+2025-03-06,Pharmacy,1649.37,expense,Health,Savings Account,smallbiz@example.com
+2025-03-06,Clothing,1009.19,expense,Shopping,Savings Account,demo.user@example.com
+2025-03-07,Pharmacy,1998.5,expense,Health,Main Account,demo.user@example.com
+2025-03-07,Monthly income,16751.64,income,Salary,Savings Account,demo.user@example.com
+2025-03-07,Streaming,1755.95,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-03-11,Restaurant,2183.73,expense,Entertainment,Main Account,demo.user@example.com
+2025-03-12,Electricity,294.77,expense,Housing,Savings Account,smallbiz@example.com
+2025-03-12,Monthly income,25781.38,income,Salary,Main Account,demo.user@example.com
+2025-03-12,Streaming,357.46,expense,Entertainment,Main Account,smallbiz@example.com
+2025-03-12,Fuel,183.11,expense,Transport,Main Account,demo.user@example.com
+2025-03-13,Taxi fare,1461.01,expense,Transport,Savings Account,smallbiz@example.com
+2025-03-13,Restaurant,2020.09,expense,Entertainment,Main Account,demo.user@example.com
+2025-03-13,Electricity,575.83,expense,Housing,Main Account,smallbiz@example.com
+2025-03-14,Electricity,847.25,expense,Housing,Main Account,demo.user@example.com
+2025-03-15,Monthly income,20218.94,income,Salary,Main Account,demo.user@example.com
+2025-03-16,Monthly income,14885.11,income,Freelance,Main Account,smallbiz@example.com
+2025-03-19,Streaming,1401.95,expense,Entertainment,Savings Account,demo.user@example.com
+2025-03-19,Taxi fare,1121.44,expense,Transport,Savings Account,demo.user@example.com
+2025-03-20,Monthly income,27952.28,income,Salary,Savings Account,demo.user@example.com
+2025-03-20,Household items,1326.23,expense,Shopping,Savings Account,smallbiz@example.com
+2025-03-20,Restaurant,232.5,expense,Entertainment,Main Account,demo.user@example.com
+2025-03-22,Streaming,476.71,expense,Entertainment,Main Account,smallbiz@example.com
+2025-03-24,Pharmacy,1925.05,expense,Health,Main Account,smallbiz@example.com
+2025-03-24,Medical,1249.36,expense,Health,Main Account,demo.user@example.com
+2025-03-25,Rent,1517.19,expense,Housing,Main Account,demo.user@example.com
+2025-03-25,Supermarket,2046.04,expense,Groceries,Savings Account,smallbiz@example.com
+2025-03-26,Fuel,1778.78,expense,Transport,Savings Account,smallbiz@example.com
+2025-03-26,Medical,286.66,expense,Health,Main Account,smallbiz@example.com
+2025-03-27,Food shopping,2128.15,expense,Groceries,Savings Account,smallbiz@example.com
+2025-03-27,Restaurant,1906.97,expense,Entertainment,Main Account,demo.user@example.com
+2025-03-29,Household items,1859.08,expense,Shopping,Main Account,demo.user@example.com
+2025-03-30,Restaurant,1789.76,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-03-31,Household items,2018.3,expense,Shopping,Main Account,smallbiz@example.com
+2025-03-31,Monthly income,20781.98,income,Salary,Savings Account,demo.user@example.com
+2025-04-03,Electricity,794.97,expense,Housing,Main Account,demo.user@example.com
+2025-04-05,Electricity,282.0,expense,Housing,Main Account,smallbiz@example.com
+2025-04-06,Rent,55.06,expense,Housing,Main Account,smallbiz@example.com
+2025-04-06,Household items,220.53,expense,Shopping,Savings Account,demo.user@example.com
+2025-04-06,Monthly income,16090.69,income,Freelance,Main Account,demo.user@example.com
+2025-04-09,Electricity,521.84,expense,Housing,Savings Account,smallbiz@example.com
+2025-04-09,Restaurant,1367.59,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-04-10,Medical,920.78,expense,Health,Savings Account,smallbiz@example.com
+2025-04-12,Monthly income,24574.75,income,Salary,Main Account,smallbiz@example.com
+2025-04-13,Pharmacy,551.45,expense,Health,Savings Account,demo.user@example.com
+2025-04-14,Monthly income,12787.28,income,Salary,Savings Account,smallbiz@example.com
+2025-04-15,Taxi fare,983.52,expense,Transport,Savings Account,demo.user@example.com
+2025-04-17,Household items,2046.01,expense,Shopping,Savings Account,demo.user@example.com
+2025-04-19,Electricity,637.43,expense,Housing,Savings Account,smallbiz@example.com
+2025-04-23,Rent,1677.82,expense,Housing,Main Account,smallbiz@example.com
+2025-04-23,Monthly income,30991.19,income,Freelance,Main Account,demo.user@example.com
+2025-04-23,Pharmacy,51.64,expense,Health,Savings Account,demo.user@example.com
+2025-04-23,Taxi fare,231.82,expense,Transport,Main Account,demo.user@example.com
+2025-04-26,Fuel,135.05,expense,Transport,Savings Account,demo.user@example.com
+2025-04-27,Rent,1567.86,expense,Housing,Main Account,smallbiz@example.com
+2025-04-28,Rent,1413.28,expense,Housing,Savings Account,demo.user@example.com
+2025-04-28,Clothing,258.43,expense,Shopping,Savings Account,smallbiz@example.com
+2025-04-28,Monthly income,28834.81,income,Freelance,Savings Account,demo.user@example.com
+2025-04-28,Taxi fare,1227.14,expense,Transport,Savings Account,smallbiz@example.com
+2025-04-28,Pharmacy,2199.07,expense,Health,Savings Account,demo.user@example.com
+2025-04-30,Fuel,635.3,expense,Transport,Main Account,demo.user@example.com
+2025-04-30,Electricity,1992.1,expense,Housing,Main Account,smallbiz@example.com
+2025-05-02,Taxi fare,88.66,expense,Transport,Savings Account,smallbiz@example.com
+2025-05-03,Taxi fare,1536.29,expense,Transport,Savings Account,smallbiz@example.com
+2025-05-04,Fuel,1168.34,expense,Transport,Savings Account,demo.user@example.com
+2025-05-05,Taxi fare,447.67,expense,Transport,Main Account,demo.user@example.com
+2025-05-05,Clothing,893.71,expense,Shopping,Main Account,smallbiz@example.com
+2025-05-06,Household items,678.94,expense,Shopping,Main Account,demo.user@example.com
+2025-05-06,Food shopping,1943.73,expense,Groceries,Main Account,smallbiz@example.com
+2025-05-06,Pharmacy,403.01,expense,Health,Main Account,smallbiz@example.com
+2025-05-07,Rent,1308.69,expense,Housing,Main Account,demo.user@example.com
+2025-05-08,Monthly income,15730.32,income,Salary,Savings Account,smallbiz@example.com
+2025-05-10,Clothing,756.73,expense,Shopping,Main Account,smallbiz@example.com
+2025-05-11,Streaming,1502.03,expense,Entertainment,Main Account,demo.user@example.com
+2025-05-11,Clothing,1287.04,expense,Shopping,Main Account,smallbiz@example.com
+2025-05-12,Streaming,1651.3,expense,Entertainment,Savings Account,demo.user@example.com
+2025-05-16,Fuel,411.31,expense,Transport,Main Account,demo.user@example.com
+2025-05-17,Food shopping,2111.88,expense,Groceries,Savings Account,demo.user@example.com
+2025-05-18,Electricity,1219.93,expense,Housing,Main Account,smallbiz@example.com
+2025-05-19,Monthly income,10095.13,income,Freelance,Savings Account,smallbiz@example.com
+2025-05-20,Monthly income,10703.52,income,Salary,Savings Account,smallbiz@example.com
+2025-05-20,Pharmacy,334.58,expense,Health,Main Account,smallbiz@example.com
+2025-05-22,Streaming,2057.65,expense,Entertainment,Savings Account,demo.user@example.com
+2025-05-23,Rent,836.44,expense,Housing,Main Account,smallbiz@example.com
+2025-05-23,Supermarket,1765.92,expense,Groceries,Main Account,smallbiz@example.com
+2025-05-25,Medical,1908.29,expense,Health,Savings Account,smallbiz@example.com
+2025-05-25,Medical,702.73,expense,Health,Savings Account,smallbiz@example.com
+2025-05-26,Household items,237.18,expense,Shopping,Main Account,smallbiz@example.com
+2025-05-26,Household items,1960.25,expense,Shopping,Main Account,smallbiz@example.com
+2025-05-27,Monthly income,28742.0,income,Salary,Savings Account,smallbiz@example.com
+2025-05-27,Supermarket,1193.6,expense,Groceries,Main Account,demo.user@example.com
+2025-05-30,Monthly income,13396.24,income,Freelance,Main Account,smallbiz@example.com
+2025-06-03,Taxi fare,2015.41,expense,Transport,Savings Account,smallbiz@example.com
+2025-06-06,Fuel,86.23,expense,Transport,Main Account,smallbiz@example.com
+2025-06-07,Food shopping,1129.29,expense,Groceries,Main Account,demo.user@example.com
+2025-06-08,Taxi fare,1721.79,expense,Transport,Main Account,demo.user@example.com
+2025-06-08,Household items,314.18,expense,Shopping,Main Account,smallbiz@example.com
+2025-06-09,Taxi fare,789.07,expense,Transport,Main Account,smallbiz@example.com
+2025-06-09,Pharmacy,1947.44,expense,Health,Main Account,demo.user@example.com
+2025-06-10,Monthly income,17557.75,income,Freelance,Savings Account,smallbiz@example.com
+2025-06-10,Streaming,1217.68,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-06-11,Supermarket,1027.19,expense,Groceries,Main Account,demo.user@example.com
+2025-06-12,Household items,870.86,expense,Shopping,Main Account,smallbiz@example.com
+2025-06-13,Food shopping,1008.38,expense,Groceries,Main Account,demo.user@example.com
+2025-06-13,Electricity,318.11,expense,Housing,Savings Account,demo.user@example.com
+2025-06-14,Supermarket,630.41,expense,Groceries,Savings Account,smallbiz@example.com
+2025-06-15,Monthly income,26541.15,income,Salary,Savings Account,smallbiz@example.com
+2025-06-16,Monthly income,10734.92,income,Freelance,Savings Account,smallbiz@example.com
+2025-06-16,Monthly income,30742.74,income,Freelance,Savings Account,demo.user@example.com
+2025-06-18,Food shopping,795.23,expense,Groceries,Savings Account,smallbiz@example.com
+2025-06-18,Medical,2100.71,expense,Health,Savings Account,demo.user@example.com
+2025-06-18,Restaurant,685.44,expense,Entertainment,Main Account,smallbiz@example.com
+2025-06-19,Monthly income,13712.11,income,Freelance,Main Account,demo.user@example.com
+2025-06-20,Supermarket,2063.95,expense,Groceries,Main Account,smallbiz@example.com
+2025-06-20,Fuel,183.54,expense,Transport,Main Account,demo.user@example.com
+2025-06-24,Taxi fare,256.29,expense,Transport,Savings Account,demo.user@example.com
+2025-06-24,Medical,2132.71,expense,Health,Savings Account,demo.user@example.com
+2025-06-25,Clothing,2048.28,expense,Shopping,Main Account,demo.user@example.com
+2025-06-25,Supermarket,250.58,expense,Groceries,Savings Account,demo.user@example.com
+2025-06-26,Pharmacy,2058.37,expense,Health,Main Account,smallbiz@example.com
+2025-06-26,Taxi fare,126.07,expense,Transport,Main Account,smallbiz@example.com
+2025-06-26,Clothing,1705.3,expense,Shopping,Savings Account,demo.user@example.com
+2025-06-26,Medical,1020.82,expense,Health,Savings Account,demo.user@example.com
+2025-06-28,Restaurant,893.32,expense,Entertainment,Savings Account,demo.user@example.com
+2025-06-30,Electricity,1013.39,expense,Housing,Main Account,smallbiz@example.com
+2025-07-02,Food shopping,626.51,expense,Groceries,Savings Account,smallbiz@example.com
+2025-07-03,Medical,1782.43,expense,Health,Savings Account,demo.user@example.com
+2025-07-04,Monthly income,8124.69,income,Freelance,Savings Account,smallbiz@example.com
+2025-07-04,Taxi fare,1320.59,expense,Transport,Main Account,smallbiz@example.com
+2025-07-04,Pharmacy,271.78,expense,Health,Main Account,smallbiz@example.com
+2025-07-05,Supermarket,1749.82,expense,Groceries,Main Account,smallbiz@example.com
+2025-07-05,Food shopping,1125.81,expense,Groceries,Main Account,smallbiz@example.com
+2025-07-06,Electricity,919.99,expense,Housing,Savings Account,demo.user@example.com
+2025-07-06,Household items,1384.13,expense,Shopping,Main Account,smallbiz@example.com
+2025-07-08,Medical,1769.49,expense,Health,Savings Account,demo.user@example.com
+2025-07-09,Streaming,1359.28,expense,Entertainment,Main Account,smallbiz@example.com
+2025-07-09,Supermarket,1639.81,expense,Groceries,Main Account,smallbiz@example.com
+2025-07-10,Supermarket,652.16,expense,Groceries,Main Account,smallbiz@example.com
+2025-07-13,Monthly income,15036.28,income,Freelance,Main Account,demo.user@example.com
+2025-07-14,Monthly income,17370.12,income,Freelance,Savings Account,smallbiz@example.com
+2025-07-15,Medical,2184.18,expense,Health,Savings Account,demo.user@example.com
+2025-07-15,Streaming,208.74,expense,Entertainment,Main Account,smallbiz@example.com
+2025-07-17,Rent,96.03,expense,Housing,Main Account,smallbiz@example.com
+2025-07-18,Household items,1306.59,expense,Shopping,Main Account,smallbiz@example.com
+2025-07-20,Clothing,781.85,expense,Shopping,Main Account,smallbiz@example.com
+2025-07-22,Clothing,964.28,expense,Shopping,Main Account,demo.user@example.com
+2025-07-23,Food shopping,75.58,expense,Groceries,Main Account,smallbiz@example.com
+2025-07-24,Household items,983.49,expense,Shopping,Savings Account,demo.user@example.com
+2025-07-24,Streaming,2143.11,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-07-24,Clothing,1967.61,expense,Shopping,Main Account,smallbiz@example.com
+2025-07-26,Restaurant,1269.66,expense,Entertainment,Main Account,smallbiz@example.com
+2025-07-26,Electricity,1019.42,expense,Housing,Savings Account,smallbiz@example.com
+2025-07-27,Medical,156.49,expense,Health,Main Account,demo.user@example.com
+2025-07-29,Monthly income,17035.04,income,Freelance,Main Account,demo.user@example.com
+2025-07-30,Clothing,2134.16,expense,Shopping,Savings Account,smallbiz@example.com
+2025-07-31,Supermarket,1390.28,expense,Groceries,Savings Account,smallbiz@example.com
+2025-08-01,Monthly income,11171.84,income,Freelance,Savings Account,demo.user@example.com
+2025-08-01,Electricity,711.61,expense,Housing,Savings Account,smallbiz@example.com
+2025-08-02,Fuel,2193.88,expense,Transport,Savings Account,smallbiz@example.com
+2025-08-06,Monthly income,13395.43,income,Salary,Savings Account,demo.user@example.com
+2025-08-08,Fuel,634.63,expense,Transport,Main Account,demo.user@example.com
+2025-08-08,Pharmacy,1353.47,expense,Health,Savings Account,demo.user@example.com
+2025-08-09,Monthly income,24277.23,income,Freelance,Savings Account,demo.user@example.com
+2025-08-09,Taxi fare,730.42,expense,Transport,Main Account,smallbiz@example.com
+2025-08-09,Taxi fare,768.79,expense,Transport,Savings Account,smallbiz@example.com
+2025-08-10,Monthly income,25731.1,income,Salary,Main Account,smallbiz@example.com
+2025-08-10,Household items,1566.32,expense,Shopping,Savings Account,demo.user@example.com
+2025-08-11,Clothing,995.56,expense,Shopping,Savings Account,demo.user@example.com
+2025-08-12,Taxi fare,1309.91,expense,Transport,Main Account,smallbiz@example.com
+2025-08-13,Fuel,338.39,expense,Transport,Savings Account,demo.user@example.com
+2025-08-13,Supermarket,489.39,expense,Groceries,Savings Account,smallbiz@example.com
+2025-08-14,Fuel,2026.57,expense,Transport,Savings Account,demo.user@example.com
+2025-08-15,Household items,498.28,expense,Shopping,Savings Account,smallbiz@example.com
+2025-08-15,Taxi fare,1753.44,expense,Transport,Main Account,demo.user@example.com
+2025-08-15,Medical,1418.3,expense,Health,Savings Account,smallbiz@example.com
+2025-08-16,Pharmacy,1181.28,expense,Health,Savings Account,smallbiz@example.com
+2025-08-17,Monthly income,28880.89,income,Freelance,Savings Account,smallbiz@example.com
+2025-08-17,Clothing,564.85,expense,Shopping,Main Account,smallbiz@example.com
+2025-08-18,Supermarket,589.08,expense,Groceries,Main Account,smallbiz@example.com
+2025-08-19,Supermarket,146.58,expense,Groceries,Savings Account,demo.user@example.com
+2025-08-19,Taxi fare,233.56,expense,Transport,Main Account,smallbiz@example.com
+2025-08-21,Monthly income,25330.21,income,Freelance,Main Account,demo.user@example.com
+2025-08-22,Clothing,1590.22,expense,Shopping,Savings Account,smallbiz@example.com
+2025-08-22,Taxi fare,1882.47,expense,Transport,Main Account,demo.user@example.com
+2025-08-23,Supermarket,2196.94,expense,Groceries,Savings Account,smallbiz@example.com
+2025-08-24,Rent,2064.49,expense,Housing,Main Account,demo.user@example.com
+2025-08-27,Monthly income,31551.64,income,Freelance,Savings Account,demo.user@example.com
+2025-08-28,Household items,2075.89,expense,Shopping,Savings Account,smallbiz@example.com
+2025-08-28,Fuel,1897.2,expense,Transport,Savings Account,smallbiz@example.com
+2025-08-30,Monthly income,26498.39,income,Salary,Main Account,smallbiz@example.com
+2025-08-31,Electricity,2192.71,expense,Housing,Savings Account,smallbiz@example.com
+2025-09-01,Electricity,1493.79,expense,Housing,Savings Account,smallbiz@example.com
+2025-09-02,Monthly income,25945.64,income,Freelance,Savings Account,smallbiz@example.com
+2025-09-06,Monthly income,31999.44,income,Salary,Main Account,smallbiz@example.com
+2025-09-06,Monthly income,16067.11,income,Freelance,Main Account,smallbiz@example.com
+2025-09-07,Monthly income,27147.98,income,Freelance,Savings Account,smallbiz@example.com
+2025-09-08,Taxi fare,1433.38,expense,Transport,Savings Account,smallbiz@example.com
+2025-09-08,Household items,1032.69,expense,Shopping,Savings Account,demo.user@example.com
+2025-09-09,Monthly income,23106.7,income,Salary,Main Account,demo.user@example.com
+2025-09-13,Electricity,934.54,expense,Housing,Savings Account,smallbiz@example.com
+2025-09-14,Rent,246.49,expense,Housing,Main Account,demo.user@example.com
+2025-09-16,Supermarket,1567.0,expense,Groceries,Savings Account,demo.user@example.com
+2025-09-17,Streaming,906.2,expense,Entertainment,Savings Account,demo.user@example.com
+2025-09-18,Electricity,425.27,expense,Housing,Main Account,smallbiz@example.com
+2025-09-20,Clothing,2097.79,expense,Shopping,Main Account,smallbiz@example.com
+2025-09-21,Medical,583.42,expense,Health,Main Account,smallbiz@example.com
+2025-09-23,Monthly income,11951.77,income,Freelance,Main Account,smallbiz@example.com
+2025-09-23,Food shopping,459.99,expense,Groceries,Savings Account,demo.user@example.com
+2025-09-24,Taxi fare,987.32,expense,Transport,Savings Account,demo.user@example.com
+2025-09-25,Electricity,1041.45,expense,Housing,Savings Account,smallbiz@example.com
+2025-09-25,Streaming,1897.26,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-09-27,Pharmacy,880.33,expense,Health,Savings Account,demo.user@example.com
+2025-09-28,Supermarket,168.71,expense,Groceries,Main Account,demo.user@example.com
+2025-09-28,Restaurant,2046.1,expense,Entertainment,Main Account,smallbiz@example.com
+2025-09-29,Electricity,1609.78,expense,Housing,Main Account,demo.user@example.com
+2025-09-29,Monthly income,18075.98,income,Freelance,Main Account,smallbiz@example.com
+2025-09-30,Supermarket,1181.19,expense,Groceries,Savings Account,smallbiz@example.com
+2025-09-30,Taxi fare,2084.93,expense,Transport,Main Account,smallbiz@example.com
+2025-10-02,Monthly income,10579.93,income,Salary,Savings Account,smallbiz@example.com
+2025-10-03,Pharmacy,1092.02,expense,Health,Savings Account,smallbiz@example.com
+2025-10-03,Fuel,1507.94,expense,Transport,Main Account,smallbiz@example.com
+2025-10-03,Monthly income,14364.81,income,Freelance,Main Account,demo.user@example.com
+2025-10-04,Fuel,1466.19,expense,Transport,Main Account,demo.user@example.com
+2025-10-05,Supermarket,1838.21,expense,Groceries,Savings Account,demo.user@example.com
+2025-10-05,Food shopping,1217.85,expense,Groceries,Savings Account,demo.user@example.com
+2025-10-08,Taxi fare,1009.4,expense,Transport,Main Account,smallbiz@example.com
+2025-10-08,Electricity,490.05,expense,Housing,Savings Account,smallbiz@example.com
+2025-10-09,Monthly income,23651.48,income,Salary,Main Account,demo.user@example.com
+2025-10-10,Fuel,971.62,expense,Transport,Main Account,demo.user@example.com
+2025-10-10,Monthly income,21436.37,income,Freelance,Main Account,smallbiz@example.com
+2025-10-10,Fuel,1034.03,expense,Transport,Main Account,demo.user@example.com
+2025-10-11,Streaming,1689.93,expense,Entertainment,Savings Account,demo.user@example.com
+2025-10-11,Monthly income,14762.15,income,Salary,Savings Account,demo.user@example.com
+2025-10-11,Medical,674.09,expense,Health,Main Account,smallbiz@example.com
+2025-10-12,Monthly income,14932.03,income,Salary,Savings Account,smallbiz@example.com
+2025-10-12,Monthly income,30753.5,income,Salary,Main Account,smallbiz@example.com
+2025-10-13,Restaurant,587.07,expense,Entertainment,Savings Account,demo.user@example.com
+2025-10-14,Rent,1485.8,expense,Housing,Main Account,smallbiz@example.com
+2025-10-14,Household items,658.06,expense,Shopping,Savings Account,smallbiz@example.com
+2025-10-15,Monthly income,26599.15,income,Freelance,Main Account,smallbiz@example.com
+2025-10-15,Household items,1978.79,expense,Shopping,Savings Account,smallbiz@example.com
+2025-10-16,Streaming,866.03,expense,Entertainment,Main Account,demo.user@example.com
+2025-10-16,Streaming,1695.33,expense,Entertainment,Main Account,demo.user@example.com
+2025-10-16,Monthly income,19097.08,income,Freelance,Main Account,smallbiz@example.com
+2025-10-16,Supermarket,291.45,expense,Groceries,Savings Account,demo.user@example.com
+2025-10-17,Restaurant,1274.93,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-10-17,Supermarket,1639.2,expense,Groceries,Main Account,demo.user@example.com
+2025-10-18,Monthly income,11682.52,income,Freelance,Savings Account,smallbiz@example.com
+2025-10-19,Pharmacy,2086.53,expense,Health,Main Account,demo.user@example.com
+2025-10-19,Streaming,97.14,expense,Entertainment,Savings Account,demo.user@example.com
+2025-10-20,Taxi fare,1783.23,expense,Transport,Main Account,demo.user@example.com
+2025-10-21,Supermarket,76.0,expense,Groceries,Savings Account,smallbiz@example.com
+2025-10-22,Food shopping,681.5,expense,Groceries,Savings Account,smallbiz@example.com
+2025-10-22,Electricity,641.85,expense,Housing,Savings Account,smallbiz@example.com
+2025-10-22,Medical,547.9,expense,Health,Main Account,demo.user@example.com
+2025-10-22,Streaming,661.8,expense,Entertainment,Savings Account,demo.user@example.com
+2025-10-23,Monthly income,9065.28,income,Freelance,Main Account,demo.user@example.com
+2025-10-23,Fuel,1113.74,expense,Transport,Savings Account,smallbiz@example.com
+2025-10-25,Monthly income,26579.25,income,Salary,Savings Account,smallbiz@example.com
+2025-10-25,Clothing,1008.67,expense,Shopping,Main Account,smallbiz@example.com
+2025-10-26,Food shopping,1106.45,expense,Groceries,Savings Account,smallbiz@example.com
+2025-10-26,Medical,354.93,expense,Health,Main Account,demo.user@example.com
+2025-10-26,Food shopping,1450.22,expense,Groceries,Main Account,demo.user@example.com
+2025-10-27,Pharmacy,158.14,expense,Health,Main Account,demo.user@example.com
+2025-10-29,Medical,2157.81,expense,Health,Main Account,smallbiz@example.com
+2025-11-02,Monthly income,17209.04,income,Salary,Savings Account,demo.user@example.com
+2025-11-02,Electricity,661.41,expense,Housing,Savings Account,demo.user@example.com
+2025-11-02,Medical,2137.38,expense,Health,Main Account,demo.user@example.com
+2025-11-02,Streaming,249.72,expense,Entertainment,Main Account,demo.user@example.com
+2025-11-03,Supermarket,2046.5,expense,Groceries,Savings Account,demo.user@example.com
+2025-11-04,Supermarket,369.99,expense,Groceries,Savings Account,demo.user@example.com
+2025-11-06,Fuel,1010.38,expense,Transport,Savings Account,demo.user@example.com
+2025-11-07,Rent,1669.45,expense,Housing,Main Account,smallbiz@example.com
+2025-11-09,Food shopping,797.05,expense,Groceries,Savings Account,demo.user@example.com
+2025-11-09,Streaming,1150.58,expense,Entertainment,Main Account,smallbiz@example.com
+2025-11-10,Streaming,1320.41,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-11-11,Streaming,876.83,expense,Entertainment,Main Account,demo.user@example.com
+2025-11-13,Streaming,1424.73,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-11-13,Monthly income,23147.86,income,Freelance,Main Account,demo.user@example.com
+2025-11-13,Monthly income,9957.96,income,Freelance,Savings Account,smallbiz@example.com
+2025-11-14,Monthly income,23776.96,income,Freelance,Savings Account,demo.user@example.com
+2025-11-14,Monthly income,16616.94,income,Salary,Savings Account,demo.user@example.com
+2025-11-14,Restaurant,537.69,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-11-17,Clothing,365.9,expense,Shopping,Main Account,demo.user@example.com
+2025-11-17,Pharmacy,1123.07,expense,Health,Main Account,demo.user@example.com
+2025-11-18,Monthly income,23058.99,income,Salary,Savings Account,smallbiz@example.com
+2025-11-18,Medical,1509.65,expense,Health,Savings Account,smallbiz@example.com
+2025-11-19,Clothing,54.79,expense,Shopping,Savings Account,smallbiz@example.com
+2025-11-19,Monthly income,23371.49,income,Freelance,Savings Account,demo.user@example.com
+2025-11-20,Food shopping,239.61,expense,Groceries,Savings Account,smallbiz@example.com
+2025-11-20,Fuel,665.6,expense,Transport,Main Account,smallbiz@example.com
+2025-11-20,Monthly income,11236.46,income,Freelance,Main Account,smallbiz@example.com
+2025-11-21,Rent,42.68,expense,Housing,Main Account,smallbiz@example.com
+2025-11-21,Streaming,528.92,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-11-22,Food shopping,788.34,expense,Groceries,Savings Account,smallbiz@example.com
+2025-11-22,Household items,1440.6,expense,Shopping,Main Account,demo.user@example.com
+2025-11-22,Electricity,1652.94,expense,Housing,Savings Account,demo.user@example.com
+2025-11-24,Supermarket,1488.11,expense,Groceries,Savings Account,smallbiz@example.com
+2025-11-24,Restaurant,275.01,expense,Entertainment,Savings Account,demo.user@example.com
+2025-11-24,Monthly income,25797.21,income,Salary,Main Account,demo.user@example.com
+2025-11-24,Electricity,1365.66,expense,Housing,Main Account,demo.user@example.com
+2025-11-26,Restaurant,143.87,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-11-29,Supermarket,1627.74,expense,Groceries,Savings Account,smallbiz@example.com
+2025-11-29,Monthly income,30974.85,income,Salary,Main Account,demo.user@example.com
+2025-12-01,Streaming,1443.42,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-12-01,Rent,1008.67,expense,Housing,Savings Account,demo.user@example.com
+2025-12-02,Food shopping,1473.66,expense,Groceries,Main Account,demo.user@example.com
+2025-12-02,Monthly income,19744.33,income,Freelance,Savings Account,demo.user@example.com
+2025-12-02,Household items,344.32,expense,Shopping,Main Account,demo.user@example.com
+2025-12-04,Supermarket,2006.49,expense,Groceries,Savings Account,smallbiz@example.com
+2025-12-05,Streaming,395.79,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-12-05,Supermarket,481.17,expense,Groceries,Main Account,demo.user@example.com
+2025-12-06,Pharmacy,1019.7,expense,Health,Savings Account,smallbiz@example.com
+2025-12-06,Monthly income,29075.05,income,Freelance,Main Account,demo.user@example.com
+2025-12-08,Monthly income,15363.35,income,Freelance,Savings Account,demo.user@example.com
+2025-12-09,Monthly income,31560.44,income,Freelance,Savings Account,demo.user@example.com
+2025-12-09,Taxi fare,379.66,expense,Transport,Main Account,smallbiz@example.com
+2025-12-09,Fuel,148.64,expense,Transport,Savings Account,smallbiz@example.com
+2025-12-09,Taxi fare,891.88,expense,Transport,Savings Account,smallbiz@example.com
+2025-12-10,Monthly income,16486.35,income,Freelance,Main Account,smallbiz@example.com
+2025-12-10,Monthly income,11859.8,income,Freelance,Savings Account,smallbiz@example.com
+2025-12-11,Rent,1490.12,expense,Housing,Savings Account,demo.user@example.com
+2025-12-11,Electricity,1815.53,expense,Housing,Savings Account,demo.user@example.com
+2025-12-12,Food shopping,2016.53,expense,Groceries,Main Account,demo.user@example.com
+2025-12-14,Streaming,1700.83,expense,Entertainment,Savings Account,smallbiz@example.com
+2025-12-16,Electricity,276.51,expense,Housing,Savings Account,demo.user@example.com
+2025-12-16,Food shopping,1723.95,expense,Groceries,Savings Account,demo.user@example.com
+2025-12-17,Taxi fare,686.95,expense,Transport,Savings Account,demo.user@example.com
+2025-12-17,Supermarket,786.7,expense,Groceries,Savings Account,smallbiz@example.com
+2025-12-18,Household items,166.09,expense,Shopping,Savings Account,demo.user@example.com
+2025-12-18,Electricity,578.68,expense,Housing,Main Account,demo.user@example.com
+2025-12-18,Monthly income,25097.63,income,Freelance,Main Account,demo.user@example.com
+2025-12-19,Household items,379.19,expense,Shopping,Savings Account,demo.user@example.com
+2025-12-19,Medical,609.87,expense,Health,Main Account,demo.user@example.com
+2025-12-20,Pharmacy,1841.9,expense,Health,Main Account,smallbiz@example.com
+2025-12-20,Streaming,2092.95,expense,Entertainment,Savings Account,demo.user@example.com
+2025-12-22,Restaurant,300.51,expense,Entertainment,Main Account,smallbiz@example.com
+2025-12-22,Monthly income,13134.87,income,Freelance,Savings Account,smallbiz@example.com
+2025-12-23,Clothing,1450.34,expense,Shopping,Main Account,demo.user@example.com
+2025-12-23,Medical,370.14,expense,Health,Savings Account,demo.user@example.com
+2025-12-23,Food shopping,131.74,expense,Groceries,Main Account,demo.user@example.com
+2025-12-24,Restaurant,1888.27,expense,Entertainment,Savings Account,demo.user@example.com
+2025-12-26,Electricity,534.11,expense,Housing,Main Account,smallbiz@example.com
+2025-12-26,Clothing,1353.77,expense,Shopping,Main Account,demo.user@example.com
+2025-12-27,Monthly income,24919.72,income,Freelance,Savings Account,smallbiz@example.com
+2025-12-28,Restaurant,1523.19,expense,Entertainment,Savings Account,demo.user@example.com
+2025-12-28,Monthly income,12976.2,income,Freelance,Savings Account,smallbiz@example.com
+2025-12-29,Monthly income,27144.45,income,Salary,Savings Account,smallbiz@example.com
+2025-12-30,Monthly income,21012.11,income,Freelance,Main Account,demo.user@example.com
+2025-12-30,Restaurant,213.98,expense,Entertainment,Main Account,demo.user@example.com
